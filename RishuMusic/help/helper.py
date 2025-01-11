@@ -445,9 +445,9 @@ class Helper(object):
 ● ᴧɪ ɪηᴛєɢʀᴧᴛɪση
 ───────────────────────
 ❖ υᴘᴅᴧᴛєs ᴄʜᴧηηєʟ ➥ [ʀᴀᴅʜᴇ υᴘᴅᴧᴛє](https://t.me/ll_BOTCHAMBER_ll)
-❖ sυᴘᴘσʀᴛ ᴄʜᴧᴛ ➥ [ʀᴀᴅʜᴇ sυᴘᴘσʀᴛ](https://t.me/ur_support07)
+❖ sυᴘᴘσʀᴛ ᴄʜᴧᴛ ➥ [ʀᴀᴅʜᴇ sυᴘᴘσʀᴛ](https://t.me/BOT_SUPPORT_GROUP7)
 ❖ ʀєᴧʟ σᴡηєʀ ➥ [ʀɪsʜυ sᴧηᴧᴛᴧηɪ](https://t.me/Rishu1286)
-❖ ʀєᴘσ ʟɪηᴋ ➥ [ᴄʟɪᴄᴋ ϻє](https://t.me/lll_SANATANI_lll)
+❖ ʀєᴘσ ʟɪηᴋ ➥ [ᴄʟɪᴄᴋ ϻє](https://github.com/RishuBot/RishuManagement)
 ───────────────────────
 ❖ ᴄʟɪᴄᴋ ση ᴛʜє ʜєʟᴩ ʙυᴛᴛση ᴛσ ɢєᴛ ɪηғσ
     ᴧʙσυᴛ ϻʏ ϻσᴅυʟєs ᴧηᴅ ᴄσϻϻᴧηᴅs...!
