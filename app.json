@@ -1,5 +1,5 @@
 {
-    "name": "Rishu",
+    "name": "Radhe",
     "description": "A Telegram Music Player Bot, written in Python with Pyrogram and Py-Tgcalls.",
     "logo": "https://telegra.ph/file/241c78c8477e062a03046.jpg",
     "keywords": [
@@ -34,7 +34,7 @@
       },
       "OWNER_ID": {
         "description": "The user id of user whom you would like to add as OWNER.",
-        "value": "5738579437",
+        "value": "7883634874",
         "required": true
       },
       "STRING_SESSION": {
