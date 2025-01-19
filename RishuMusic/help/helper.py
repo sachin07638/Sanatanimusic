@@ -33,7 +33,7 @@ class Helper(object):
 ❍ /ask ➠ ǫυєʀɪєs ᴛʜє ᴧɪ ϻσᴅєʟ ᴛσ ɢєᴛ ᴧ ʀєsᴘσηsє ᴛσ ʏσυʀ ǫυєsᴛɪση
 
 
-❖ ϻᴧᴅє ʙʏ  ➠ [ʀᴀᴅʜᴇ-ϻυsɪᴄ](https://t.me/ll_BOTCHAMBER_ll) **
+❖ ϻᴧᴅє ʙʏ  ➠ [sᴧηᴧᴛᴧηɪ-ϻυsɪᴄ](https://t.me/ll_BOTCHAMBER_ll) **
 '''
 
 
@@ -47,7 +47,7 @@ class Helper(object):
 ```
 ❖ єxᴧϻᴘʟє : /google ᴘʏʀσɢʀᴧϻ : ʀєᴛυʀη ᴛσᴘ 5 ʀєυsʟᴛs ```
 
-**❖ ϻᴧᴅє ʙʏ  ➠ [ʀᴀᴅʜᴇ-ϻυsɪᴄ](https://t.me/ll_BOTCHAMBER_ll) **
+**❖ ϻᴧᴅє ʙʏ  ➠ [sᴧηᴧᴛᴧηɪ-ϻυsɪᴄ](https://t.me/ll_BOTCHAMBER_ll) **
 '''
 
     HELP_03 = '''```
@@ -420,11 +420,11 @@ class Helper(object):
 ╰⊚ υᴘᴛɪϻє : 12ʜ:48ϻ:37s | ᴄᴘυ : 5.0% | 
        υsᴧɢє : 24 | ᴧssɪsᴛᴧηᴛs : 01
 ───────────────────────
-⊚ ʙσᴛ sᴛᴧᴛυs ᴧηᴅ ϻσʀє ʙσᴛs - [ᴄʟɪᴄᴋ ϻє](https://t.me/vip_robotz/4)
+⊚ ϻσʀє ʙσᴛs sᴛᴧᴛυs - [ᴄʟɪᴄᴋ ϻє](https://t.me/vip_robotz/4)
 ───────────────────────
-⊚ ʟᴧsᴛ ᴄʜєᴄᴋєᴅ ση : ᴅᴧᴛє : 11 Jan 2025
+⊚ ʟᴧsᴛ ᴄʜєᴄᴋєᴅ ση : ᴅᴧᴛє : 19 Jan 2025
 ───────────────────────
-❍ ᴘσᴡєʀєᴅ ʙʏ ⁚ [ʀᴀᴅʜᴇ-ϻυsɪᴄ](https://t.me/ll_BOTCHAMBER_ll)
+❍ ᴘσᴡєʀєᴅ ʙʏ ⁚ [sᴧηᴧᴛᴧηɪ-ϻυsɪᴄ](https://t.me/ll_BOTCHAMBER_ll)
 ───────────────────────**
 '''
     HELP_ABOUT = '''
