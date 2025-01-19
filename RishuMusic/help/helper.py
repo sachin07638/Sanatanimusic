@@ -1,4 +1,4 @@
-# MODE BY - RISHU SANATANI
+# MADE BY - RISHU SANATANI
 
 class Helper(object):
     HELP_M = '''```
@@ -403,12 +403,12 @@ class Helper(object):
 '''
     HELP_ALLBOT = '''
 **───────────────────────
-│ ᴡєʟᴄσϻє ᴛσ ˹[ʀᴀᴅʜᴇ-ϻυsɪᴄ](https://t.me/ll_BOTCHAMBER_ll)˼ ʙσᴛ sᴛᴧᴛυs │
+│ ᴡєʟᴄσϻє ᴛσ ˹[sᴧηᴧᴛᴧηɪ-ϻυsɪᴄ](https://t.me/ll_BOTCHAMBER_ll)˼ ʙσᴛ sᴛᴧᴛυs │
 ───────────────────────
     ❖ │ ʀєᴧʟ ᴛɪϻє ʙσᴛ's sᴛᴧᴛυs │❖
 ───────────────────────
 
-╭⎋ [ʀᴧᴅʜє ϻυsɪᴄ](https://t.me/RADHE_MUSIC_ROBOT) : ᴧʟɪᴠє 
+╭⎋ [sᴧηᴧᴛᴧηɪ ϻυsɪᴄ](https://t.me/SanataniiMusicBot) : ᴧʟɪᴠє 
 ╰⊚ υᴘᴛɪϻє : 12ʜ:53ϻ:29s | ᴄᴘυ : 5.0% | 
        υsᴧɢє : 24 | ᴧssɪsᴛᴧηᴛs : 01
 
