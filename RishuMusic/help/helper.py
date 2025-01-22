@@ -58,7 +58,7 @@ class Helper(object):
 
 ❍ /tts : [ᴛєxᴛ]
 
-❖ ϻᴧᴅє ʙʏ  ➠ [ʀᴀᴅʜᴇ-ϻυsɪᴄ](https://t.me/ll_BOTCHAMBER_ll) **
+❖ ϻᴧᴅє ʙʏ  ➠ [sᴧηᴧᴛᴧηɪ-ϻυsɪᴄ](https://t.me/ll_BOTCHAMBER_ll) **
 '''
 
 
@@ -68,7 +68,7 @@ class Helper(object):
 ❍ /info : ɢєᴛ ɪηғσʀϻᴧᴛɪση ᴧʙσυᴛ ᴧ υsєʀ.
 ❍ /github <υsєʀηᴧϻє> : ɢєᴛ ɪηғσʀϻᴧᴛɪση ᴧʙσυᴛ ᴧ ɢɪᴛʜυʙ υsєʀ
 
-❖ ϻᴧᴅє ʙʏ  ➠ [ʀᴀᴅʜᴇ-ϻυsɪᴄ](https://t.me/ll_BOTCHAMBER_ll) **
+❖ ϻᴧᴅє ʙʏ  ➠ [sᴧηᴧᴛᴧηɪ-ϻυsɪᴄ](https://t.me/ll_BOTCHAMBER_ll) **
 '''
 
 
@@ -81,7 +81,7 @@ class Helper(object):
 ```
 ❖ єxᴧϻᴘʟє : /font Rishu Sanatani```
 
-**❖ ϻᴧᴅє ʙʏ  ➠[ʀᴀᴅʜᴇ-ϻυsɪᴄ](https://t.me/ll_BOTCHAMBER_ll) **
+**❖ ϻᴧᴅє ʙʏ  ➠[sᴧηᴧᴛᴧηɪ-ϻυsɪᴄ](https://t.me/ll_BOTCHAMBER_ll) **
 '''
 
     HELP_06 = '''```
@@ -89,7 +89,7 @@ class Helper(object):
 
 **❍ /math ➠ sσʟᴠєs ϻᴧᴛʜєϻᴧᴛɪᴄᴧʟ ᴘʀσʙʟєϻs ᴧηᴅ ǫυᴧᴛɪσηs
 
-❖ ϻᴧᴅє ʙʏ  ➠ [ʀᴀᴅʜᴇ-ϻυsɪᴄ](https://t.me/ll_BOTCHAMBER_ll)**
+❖ ϻᴧᴅє ʙʏ  ➠ [sᴧηᴧᴛᴧηɪ-ϻυsɪᴄ](https://t.me/ll_BOTCHAMBER_ll)**
 '''
 
 
@@ -117,7 +117,7 @@ class Helper(object):
 ❍ /vctag ➠ ᴠσɪᴄє ᴄʜᴧᴛ ɪηᴠɪᴛє ᴛᴧɢ 
 ❍ /vcstop ⇴ sᴛσᴘ ᴛᴧɢ
 
-❖ ϻᴧᴅє ʙʏ  ➠ [ʀᴀᴅʜᴇ-ϻυsɪᴄ](https://t.me/ll_BOTCHAMBER_ll)**
+❖ ϻᴧᴅє ʙʏ  ➠ [sᴧηᴧᴛᴧηɪ-ϻυsɪᴄ](https://t.me/ll_BOTCHAMBER_ll)**
 '''
 
 
@@ -128,7 +128,7 @@ class Helper(object):
 ❍ /image ➠ sєᴧʀᴄʜєs ғσʀ ᴧη ɪϻᴧɢє ʙᴧsєᴅ ση ᴧ ɢɪᴠєη ᴋєʏᴡσʀᴅ.
 ❍ /upscale ➠ ʀєᴘʟʏ ᴛσ ᴧη ɪϻᴧɢє ᴛσ υᴘsᴄᴧʟє ɪᴛ ᴧηᴅ ɪϻᴘʀσᴠє ɪᴛs ǫυᴧʟɪᴛʏ.
 
-❖ ϻᴧᴅє ʙʏ  ➠ [ʀᴀᴅʜᴇ-ϻυsɪᴄ](https://t.me/ll_BOTCHAMBER_ll) **
+❖ ϻᴧᴅє ʙʏ  ➠ [sᴧηᴧᴛᴧηɪ-ϻυsɪᴄ](https://t.me/ll_BOTCHAMBER_ll) **
 '''
 
 
@@ -142,7 +142,7 @@ class Helper(object):
 
 ❍ /hastag : [ᴛєxᴛ]
 
-❖ ϻᴧᴅє ʙʏ  ➠ [ʀᴀᴅʜᴇ-ϻυsɪᴄ](https://t.me/ll_BOTCHAMBER_ll)**
+❖ ϻᴧᴅє ʙʏ  ➠ [sᴧηᴧᴛᴧηɪ-ϻυsɪᴄ](https://t.me/ll_BOTCHAMBER_ll)**
 '''
 
 
@@ -152,7 +152,7 @@ class Helper(object):
 **❍ /packkang ➠ ᴄʀєᴧᴛєs ᴧ ᴘᴧᴄᴋ σғ sᴛɪᴄᴋєʀs ғʀσϻ ᴧ σᴛʜєʀ ᴘᴧᴄᴋ
 ❍ /stickerid ➠ ɢєᴛs ᴛʜє sᴛɪᴄᴋєʀ ɪᴅ σғ ᴧ sᴛɪᴄᴋєʀ
 
-**❖ ϻᴧᴅє ʙʏ  ➠ [ʀᴀᴅʜᴇ-ϻυsɪᴄ](https://t.me/ll_BOTCHAMBER_ll) **
+**❖ ϻᴧᴅє ʙʏ  ➠ [sᴧηᴧᴛᴧηɪ-ϻυsɪᴄ](https://t.me/ll_BOTCHAMBER_ll) **
 '''
 
 
@@ -177,7 +177,7 @@ class Helper(object):
 ❍ /boobs [ᴄʜєᴄᴋ ʏσυʀ ʙσσʙɪєs sɪᴢє]
 ❍ /dick [ᴄʜєᴄᴋ ʏσυʀ ᴅɪᴄᴋ sɪᴢє]
 
-❖ ϻᴧᴅє ʙʏ  ➠ [ʀᴀᴅʜᴇ-ϻυsɪᴄ](https://t.me/ll_BOTCHAMBER_ll) **
+❖ ϻᴧᴅє ʙʏ  ➠ [sᴧηᴧᴛᴧηɪ-ϻυsɪᴄ](https://t.me/ll_BOTCHAMBER_ll) **
 '''
 
 
@@ -189,7 +189,7 @@ class Helper(object):
 ❍ /q : ᴄʀєᴧᴛє ᴧ ǫυσᴛє ғʀσϻ ᴛʜє ϻєssᴧɢє
 ❍ /q r : ᴄʀєᴧᴛє ᴧ ǫυσᴛє ғʀσϻ ᴛʜє ϻєssᴧɢє ᴡɪᴛʜ ʀєᴘʟʏ
 
-❖ ϻᴧᴅє ʙʏ  ➠ [ʀᴀᴅʜᴇ-ϻυsɪᴄ](https://t.me/ll_BOTCHAMBER_ll) **
+❖ ϻᴧᴅє ʙʏ  ➠ [sᴧηᴧᴛᴧηɪ-ϻυsɪᴄ](https://t.me/ll_BOTCHAMBER_ll) **
 '''
 
 
@@ -201,7 +201,7 @@ class Helper(object):
 ❍ /truth : sєηᴅs ᴧ ʀᴧηᴅσϻ ᴛʀυᴛʜ sᴛʀɪηɢ
 ❍ /dare : sєηᴅs ᴧ ʀᴧηᴅσϻ ᴅᴧʀє sᴛʀɪηɢ
 
-❖ ϻᴧᴅє ʙʏ  ➠ [ʀᴀᴅʜᴇ-ϻυsɪᴄ](https://t.me/ll_BOTCHAMBER_ll) **
+❖ ϻᴧᴅє ʙʏ  ➠ [sᴧηᴧᴛᴧηɪ-ϻυsɪᴄ](https://t.me/ll_BOTCHAMBER_ll) **
 '''
 
 
@@ -230,7 +230,7 @@ class Helper(object):
 ```
 ᴛʜɪs ᴄσϻϻᴧηᴅ ᴡɪʟʟ ᴡσʀᴋ σηʟʏ ɪғ ʏσυ ɢɪᴠє ʙᴧη ʀɪɢʜᴛs ᴛσ ᴛʜє ʙσᴛ ᴡɪᴛʜ ᴧᴅϻɪη```
 
-❖ ϻᴧᴅє ʙʏ  ➠ [ʀᴀᴅʜᴇ-ϻυsɪᴄ](https://t.me/ll_BOTCHAMBER_ll) **
+❖ ϻᴧᴅє ʙʏ  ➠ [sᴧηᴧᴛᴧηɪ-ϻυsɪᴄ](https://t.me/ll_BOTCHAMBER_ll) **
 '''
 
     HELP_15 = '''```
@@ -239,7 +239,7 @@ class Helper(object):
 **❍ /kick <userhandle> : ᴋɪᴄᴋs ᴧ υsєʀ συᴛ σғ ᴛʜє ɢʀσυᴘ, (ᴠɪᴧ ʜᴧηᴅʟє, σʀ ʀєᴘʟʏ)
 ❍ /kickme: ᴋɪᴄᴋs ᴛʜє υsєʀ ᴡʜσ ɪssυєᴅ ᴛʜє ᴄσϻϻᴧηᴅ
 
-❖ ϻᴧᴅє ʙʏ  ➠ [ʀᴀᴅʜᴇ-ϻυsɪᴄ](https://t.me/ll_BOTCHAMBER_ll) **
+❖ ϻᴧᴅє ʙʏ  ➠ [sᴧηᴧᴛᴧηɪ-ϻυsɪᴄ](https://t.me/ll_BOTCHAMBER_ll) **
 '''
 
 
@@ -256,7 +256,7 @@ class Helper(object):
 ```
 ᴛʜɪs ᴄσϻϻᴧηᴅ ᴡɪʟʟ ᴡσʀᴋ σηʟʏ ɪғ ʏσυ ɢɪᴠє ʙᴧη ʀɪɢʜᴛs ᴛσ ᴛʜє ʙσᴛ ᴡɪᴛʜ ᴧᴅϻɪη```
 
-**❖ ϻᴧᴅє ʙʏ  ➠ [ʀᴀᴅʜᴇ-ϻυsɪᴄ](https://t.me/ll_BOTCHAMBER_ll) **
+**❖ ϻᴧᴅє ʙʏ  ➠ [sᴧηᴧᴛᴧηɪ-ϻυsɪᴄ](https://t.me/ll_BOTCHAMBER_ll) **
 '''
 
 
@@ -271,7 +271,7 @@ class Helper(object):
 ❍ /pinned ➠ ᴅɪsᴘʟᴧʏs ᴛʜє ᴘɪηηєᴅ ϻєssᴧɢє ɪη ᴛʜє ɢʀσυᴘ
 ❍ /unpin ➠ υηᴘɪηs ᴛʜє ᴄυʀʀєηᴛʟʏ ᴘɪηηєᴅ ϻєssᴧɢє
 
-❖ ϻᴧᴅє ʙʏ  ➠ [ʀᴀᴅʜᴇ-ϻυsɪᴄ](https://t.me/ll_BOTCHAMBER_ll) **
+❖ ϻᴧᴅє ʙʏ  ➠ [sᴧηᴧᴛᴧηɪ-ϻυsɪᴄ](https://t.me/ll_BOTCHAMBER_ll) **
 '''
 
 
@@ -281,7 +281,7 @@ class Helper(object):
 **❍ /staff ➠ ᴅɪsᴘʟᴧʏs ᴛʜє ʟɪsᴛ σғ sᴛᴧғғ ϻєϻʙєʀs
 ❍ /bots ➠ ᴅɪsᴘʟᴧʏs ᴛʜє ʟɪsᴛ σғ ʙσᴛs ɪη ᴛʜє ɢʀσυᴘ
 
-❖ ϻᴧᴅє ʙʏ  ➠ [ʀᴀᴅʜᴇ-ϻυsɪᴄ](https://t.me/ll_BOTCHAMBER_ll)**
+❖ ϻᴧᴅє ʙʏ  ➠ [sᴧηᴧᴛᴧηɪ-ϻυsɪᴄ](https://t.me/ll_BOTCHAMBER_ll)**
 '''
 
 
@@ -293,7 +293,7 @@ class Helper(object):
 ❍ /setphoto ➠ sєᴛs ᴛʜє ɢʀσυᴘ ᴘʜσᴛσ
 ❍ /removephoto ➠ ʀєϻσᴠєs ᴛʜє ɢʀσυᴘ ᴘʜσᴛσ
 
-❖ ϻᴧᴅє ʙʏ  ➠ [ʀᴀᴅʜᴇ-ϻυsɪᴄ](https://t.me/ll_BOTCHAMBER_ll) **
+❖ ϻᴧᴅє ʙʏ  ➠ [sᴧηᴧᴛᴧηɪ-ϻυsɪᴄ](https://t.me/ll_BOTCHAMBER_ll) **
 '''
 
 
@@ -304,7 +304,7 @@ class Helper(object):
 **❍ /zombies ➠ ʀєϻσᴠєs ᴧᴄᴄ ᴅєʟєᴛєᴅ ϻєϻʙєʀs ғʀσϻ ᴛʜє ɢʀσυᴘ
 
 
-❖ ϻᴧᴅє ʙʏ  ➠ [ʀᴀᴅʜᴇ-ϻυsɪᴄ](https://t.me/ll_BOTCHAMBER_ll)**
+❖ ϻᴧᴅє ʙʏ  ➠ [sᴧηᴧᴛᴧηɪ-ϻυsɪᴄ](https://t.me/ll_BOTCHAMBER_ll)**
 '''
 
 
@@ -321,7 +321,7 @@ class Helper(object):
 ❍ /basket [ʙᴧsᴋєᴛʙᴧʟʟ ɢᴧϻє]
 ❍ /football [ғσσᴛʙᴧʟʟ ɢᴧϻє]
 
-❖ ϻᴧᴅє ʙʏ  ➠ [ʀᴀᴅʜᴇ-ϻυsɪᴄ](https://t.me/ll_BOTCHAMBER_ll)**
+❖ ϻᴧᴅє ʙʏ  ➠ [sᴧηᴧᴛᴧηɪ-ϻυsɪᴄ](https://t.me/ll_BOTCHAMBER_ll)**
 '''
 
 
@@ -332,7 +332,7 @@ class Helper(object):
 ❍ /imposter on
 ❍ /imposter off
 
-❖ ϻᴧᴅє ʙʏ  ➠ [ʀᴀᴅʜᴇ-ϻυsɪᴄ](https://t.me/ll_BOTCHAMBER_ll)**
+❖ ϻᴧᴅє ʙʏ  ➠ [sᴧηᴧᴛᴧηɪ-ϻυsɪᴄ](https://t.me/ll_BOTCHAMBER_ll)**
 '''
 
     HELP_23 = '''```
@@ -340,7 +340,7 @@ class Helper(object):
 
 **❍ /sg ➠ υsєʀ ηᴧϻє ᴧηᴅ υsєʀηᴧϻє ʜɪsᴛσʀʏ
 
-❖ ϻᴧᴅє ʙʏ  ➠ [ʀᴀᴅʜᴇ-ϻυsɪᴄ](https://t.me/ll_BOTCHAMBER_ll) **
+❖ ϻᴧᴅє ʙʏ  ➠ [sᴧηᴧᴛᴧηɪ-ϻυsɪᴄ](https://t.me/ll_BOTCHAMBER_ll) **
 '''
 
     HELP_24 = '''```
@@ -348,7 +348,7 @@ class Helper(object):
 
 **❍ /tr ➠ ᴄᴧη ᴛʀᴧηꜱʟᴧᴛє ϻυʟᴛɪᴘʟє ʟᴧηɢυᴧɢєs
 
-❖ ϻᴧᴅє ʙʏ  ➠ [ʀᴀᴅʜᴇ-ϻυsɪᴄ](https://t.me/ll_BOTCHAMBER_ll) **
+❖ ϻᴧᴅє ʙʏ  ➠ [sᴧηᴧᴛᴧηɪ-ϻυsɪᴄ](https://t.me/ll_BOTCHAMBER_ll) **
 '''
 
 
@@ -364,7 +364,7 @@ class Helper(object):
 
 ❍ /stack ➠ sєᴧʀᴄʜєs ғσʀ ᴘʀσɢʀᴧϻϻɪηɢ-ʀєʟᴧᴛєᴅ ɪηғσʀϻᴧᴛɪση ση sᴛᴧᴄᴋ σᴠєʀғʟσᴡ
 
-❖ ϻᴧᴅє ʙʏ  ➠ [ʀᴀᴅʜᴇ-ϻυsɪᴄ](https://t.me/ll_BOTCHAMBER_ll) **
+❖ ϻᴧᴅє ʙʏ  ➠ [sᴧηᴧᴛᴧηɪ-ϻυsɪᴄ](https://t.me/ll_BOTCHAMBER_ll) **
 '''
 
 
@@ -375,7 +375,7 @@ class Helper(object):
 ❍ /tgm [ʀєᴘʟʏ ᴛσ ᴧηʏ ϻєᴅɪᴧ]
 ❍ /tgt [ʀєᴘʟʏ ᴛσ ᴧηʏ ϻєᴅɪᴧ]
 
-❖ ϻᴧᴅє ʙʏ  ➠ [ʀᴀᴅʜᴇ-ϻυsɪᴄ](https://t.me/ll_BOTCHAMBER_ll) **
+❖ ϻᴧᴅє ʙʏ  ➠ [sᴧηᴧᴛᴧηɪ-ϻυsɪᴄ](https://t.me/ll_BOTCHAMBER_ll) **
 '''
     HELP_PROMOTION = '''
 **───────────────────────
@@ -416,7 +416,7 @@ class Helper(object):
 ╰⊚ υᴘᴛɪϻє : 12ʜ:38ϻ:50s | ᴄᴘυ : 5.0% | 
        υsᴧɢє : 24 | ᴧssɪsᴛᴧηᴛs : 01
        
-╭⎋ [ᴧꝛᴧᴅʜʏᴧ ϻυsɪᴄ](https://t.me/ZEUS_MUSIC_ROBOT) : ᴧʟɪᴠє 
+╭⎋ [ʀᴇᴀᴄᴛɪᴏɴ ʙᴏᴛ](https://t.me/REACTION7_ROBOT) : ᴧʟɪᴠє 
 ╰⊚ υᴘᴛɪϻє : 12ʜ:48ϻ:37s | ᴄᴘυ : 5.0% | 
        υsᴧɢє : 24 | ᴧssɪsᴛᴧηᴛs : 01
 ───────────────────────
@@ -446,7 +446,7 @@ class Helper(object):
 ───────────────────────
 ❖ υᴘᴅᴧᴛєs ᴄʜᴧηηєʟ ➥ [ʀᴀᴅʜᴇ υᴘᴅᴧᴛє](https://t.me/ll_BOTCHAMBER_ll)
 ❖ sυᴘᴘσʀᴛ ᴄʜᴧᴛ ➥ [ʀᴀᴅʜᴇ sυᴘᴘσʀᴛ](https://t.me/BOT_SUPPORT_GROUP7)
-❖ ʀєᴧʟ σᴡηєʀ ➥ [ʀɪsʜυ sᴧηᴧᴛᴧηɪ](https://t.me/Rishu1286)
+❖ ʀєᴧʟ σᴡηєʀ ➥ [ʀᴀᴅʜᴇ](https://t.me/ll_RADHE7_ll)
 ❖ ʀєᴘσ ʟɪηᴋ ➥ [ᴄʟɪᴄᴋ ϻє](https://github.com/RishuBot/RishuManagement)
 ───────────────────────
 ❖ ᴄʟɪᴄᴋ ση ᴛʜє ʜєʟᴩ ʙυᴛᴛση ᴛσ ɢєᴛ ɪηғσ
