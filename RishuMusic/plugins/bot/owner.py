@@ -16,7 +16,7 @@ start_txt = """
 ├┼─────────────────⦿
 ├┤~ @ll_BOTCHAMBER_ll
 ├┤~ @DP_WORLD7
-├┤~ @Vip_robotz
+├┤~ @RADHE_XD
 ├┼─────────────────⦿
 │├─────────────────╮
 │├OWNER│ @ll_RADHE7_ll
@@ -42,7 +42,7 @@ async def start(_, msg):
                 InlineKeyboardButton(" ＮＥＴＷＯＲＫ", url=f"https://t.me/ll_BOTCHAMBER_ll"),
 ],
 [
-InlineKeyboardButton("ＯＦＦＩＣＩＡＬ ＢＯＴ", url=f"https://t.me/RADHE_MUSIC_ROBOT"),
+InlineKeyboardButton("ＯＦＦＩＣＩＡＬ ＢＯＴ", url=f"https://t.me/sanataniimusicbot"),
 
         ]]
     
