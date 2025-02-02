@@ -107,7 +107,7 @@ async def today_(_, message):
                 try:
                     user_name = (await app.get_users(user_id)).first_name
                 except:
-                    user_name = "user_id"
+                    user_name = {username}
                 user_info = f"**{idx}**.   {user_name} ➠ {total_messages}\n"
                 response += user_info
             button = InlineKeyboardMarkup(
@@ -133,7 +133,7 @@ async def ranking(_, message):
         try:
             user_name = (await app.get_users(user_id)).first_name
         except:
-            user_name = "user_id"
+            user_name = {username}
 
         user_info = f"**{idx}**.   {user_name} ➠ {total_messages}\n"
         response += user_info 
@@ -160,7 +160,7 @@ async def today_rank(_, query):
                 try:
                     user_name = (await app.get_users(user_id)).first_name
                 except:
-                    user_name = "user_id"
+                    user_name = {username}
                 user_info = f"**{idx}**.   {user_name} ➠ {total_messages}\n"
                 response += user_info
             button = InlineKeyboardMarkup(
@@ -186,7 +186,7 @@ async def overall_rank(_, query):
         try:
             user_name = (await app.get_users(user_id)).first_name
         except:
-            user_name = "user_id"
+            user_name = {username}
 
         user_info = f"**{idx}**.   {user_name} ➠ {total_messages}\n"
         response += user_info 
