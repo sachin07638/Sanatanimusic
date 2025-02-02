@@ -133,7 +133,7 @@ async def ranking(_, message):
         try:
             user_name = (await app.get_users(user_id)).first_name
         except:
-            user_name = f"User {user_id}")
+            user_name = f"User {user_id}"
 
         user_info = f"**{idx}**.   {user_name} ➠ {total_messages}\n"
         response += user_info 
