@@ -10,41 +10,34 @@ from RishuMusic.utils.database import get_client, is_active_chat, is_autoend
 
 
 async def auto_leave():
-    if config.AUTO_LEAVING_ASSISTANT == str(True):
-        while not await asyncio.sleep(
-            config.AUTO_LEAVE_ASSISTANT_TIME
-        ):
-            from RishuMusic.core.userbot import assistants
+    if not config.AUTO_LEAVING_ASSISTANT:
+        return
 
-            for num in assistants:
-                client = await get_client(num)
-                left = 0
-                try:
-                    async for i in client.iter_dialogs():
-                        chat_type = i.chat.type
-                        if chat_type in [
-                            "supergroup",
-                            "group",
-                            "channel",
-                        ]:
-                            chat_id = i.chat.id
-                            if (
-                                chat_id != config.LOGGER_ID
-                                and i.chat.id != -1001919135283
-                                and i.chat.id != -1001841879487
-                            ):
-                                if left == 20:
-                                    continue
-                                if not await is_active_chat(chat_id):
-                                    try:
-                                        await client.leave_chat(
-                                            chat_id
-                                        )
-                                        left += 1
-                                    except:
-                                        continue
-                except:
-                    pass
+    while True:
+        await asyncio.sleep(config.AUTO_LEAVE_ASSISTANT_TIME)
+        from RishuMusic.core.userbot import assistants
+
+        for num in assistants:
+            client = await get_client(num)
+            left = 0
+            try:
+                async for i in client.iter_dialogs():
+                    if i.chat.type in ["supergroup", "group", "channel"]:
+                        chat_id = i.chat.id
+                        if chat_id in {config.LOGGER_ID, -1001919135283, -1001841879487}:
+                            continue
+                        if left >= 20:
+                            break
+                        if not await is_active_chat(chat_id):
+                            print(f"Leaving chat: {chat_id}")  # Debugging ke liye
+                            try:
+                                await client.leave_chat(chat_id)
+                                left += 1
+                            except Exception as e:
+                                print(f"Error leaving {chat_id}: {e}")
+            except Exception as e:
+                print(f"Error fetching dialogs: {e}")
+
 
 
 asyncio.create_task(auto_leave())
